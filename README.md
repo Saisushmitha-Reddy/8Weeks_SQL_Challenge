@@ -1,8 +1,5 @@
 # 8Weeks_SQL_Challenge
 SQL case studies from the 8 Week SQL Challenge (MySQL), focusing on analytical problem-solving, business logic, and interview-style queries.
-
-# 8 Week SQL Challenge (MySQL) — Portfolio
-
 This repository contains my solutions to the **8 Week SQL Challenge** case studies, implemented in **MySQL** with clear explanations of logic and execution.
 
 ## Goals
@@ -37,6 +34,4 @@ This repository contains my solutions to the **8 Week SQL Challenge** case studi
 2. Run the schema script for the case study (e.g., `01-dannys-diner/schema.sql`)
 3. Run queries in `solutions.sql`
 
----
-If you're a recruiter/hiring manager: each solution includes reasoning, edge cases, and alternative approaches.
 
