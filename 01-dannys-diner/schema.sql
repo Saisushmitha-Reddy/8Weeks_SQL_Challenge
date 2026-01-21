@@ -1,4 +1,4 @@
-CRCREATE DATABASE IF NOT EXISTS dannys_diner;
+CREATE DATABASE IF NOT EXISTS dannys_diner;
 Use dannys_diner;
 
 CREATE TABLE sales (
