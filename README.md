@@ -13,7 +13,7 @@ This repository contains my solutions to the **8 Week SQL Challenge** case studi
 - MySQL Workbench
 
 ## Case Studies
-1. Danny’s Diner ✅ (in progress)
+1. Danny’s Diner
 2. Pizza Runner
 3. Foodie-Fi
 4. Data Bank
